@@ -16,8 +16,8 @@
 
 		</div>
 		<div class="col-md-3">
-			<a href=" " class="btn btn-success">Login</a> <a href=" "
-				class="btn btn-primary text-white">Register</a>
+			<a href="login.jsp" class="btn btn-success"><i class="fa-solid fa-right-to-bracket"></i> Login</a> <a href="register.jsp  "
+				class="btn btn-primary text-white"><i class="fa-solid fa-user-plus"></i> Register</a>
 		</div>
 
 	</div>
@@ -35,7 +35,7 @@
 
 	<div class="collapse navbar-collapse" id="navbarSupportedContent">
 		<ul class="navbar-nav mr-auto">
-			<li class="nav-item active"><a class="nav-link" href="#"><i class="fas fa-home"></i> Home
+			<li class="nav-item active"><a class="nav-link" href="index.jsp"><i class="fas fa-home"></i> Home
 					<span class="sr-only">(current)</span>
 			</a></li>
 				<li  class="nav-item active"> 
